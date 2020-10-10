@@ -2,15 +2,21 @@
 Repository per progetto GPOI
 
 Novelli: Struttura database.
+
 Zulberti: RESTapi.
+
 Atomei: Struttura database.
+
 Villani: RESTapi.
+
 Mancino: Flutter.
+
 Tambini: Flutter.
+
 Sacco: Flutter.
 
-Applicazione  
 
+Applicazione  
 
 Front-end: 
 
